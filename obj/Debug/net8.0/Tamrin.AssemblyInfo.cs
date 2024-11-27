@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tamrin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b0977efb8afab22ca94eda3191e16eeec4987a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tamrin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tamrin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
